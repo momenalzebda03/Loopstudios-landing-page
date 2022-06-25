@@ -1,0 +1,162 @@
+
+.Loopstudios {
+    margin-top: -36%;
+    margin-left: 12%;
+    color: white;
+}
+.Loopstudios1 {
+    position: absolute;
+    top: 335%;
+    margin-left: 10%;
+    color: white;
+}
+.about {
+    margin-top: -5%;
+    margin-left: 60%;
+    display: flex;
+}
+.about1 {
+    margin-top: -6%;
+    margin-left: 9%;
+    display: flex;
+}
+.careers1 {
+    color: white;
+    margin-top: 11%;
+    margin-left: 2%;
+}
+.careers1:hover {
+    color: aqua;
+    transition: 1s;
+}
+.careers {
+    color: white;
+    margin-left: 5%;
+}
+.immersive {
+    color: white;
+    border: 4px solid white;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 20%;
+    display: inline-block;
+}
+.colorwhit {
+    background-color: white;
+    height: 70%;
+    width: 50%;
+    position: absolute;
+    top: 100%;
+    left: 48%;
+}
+.colorwhit1 {
+    margin-top: 25%;
+    margin-left: 10%;
+}
+.founded {
+    color: darkgrey;
+}
+.mainphotos {
+    margin-top: -0.6%;
+    margin-left: -0.6%;
+    width: 102.2%;
+    height: 600px;
+}
+.parentClass {
+    width: 99%;
+}
+.firstchild {
+    top: 0;
+}
+.childClass {
+    position: absolute;
+    width: 100%;
+}
+.IMMERSIVE {
+    font-size: 220%;
+}
+.VirtualRealityLooks {
+    width: 50%;
+    margin-top: 40%;
+    margin-left: 10%;
+}
+.our {
+    color: rgba(0, 0, 0, 0.878);
+    margin-top: 8%;
+    margin-left: 10%;
+}
+.set {
+    position: absolute;
+    right: 5%;
+    top: 181%;
+    border: 1px solid black;
+}
+.set:hover {
+    color: white;
+    background-color: black;
+    transition: 1s;
+}
+.img {
+    width: 90%;
+    margin-left: 1%;
+    display: flex;
+}
+.img1 {
+    width: 90%;
+    margin-top: 2%;
+    margin-left: 0.5%;
+    display: flex;
+}
+.Earth {
+    margin-left: 16%;
+}
+.Streets {
+    margin-left: 16.8%;
+}
+.divdeep {
+    margin-top: 26%;
+    margin-left: -18%;
+}
+.deep {    
+    font-size: 120%;
+    margin-top: -20%;
+    color: rgba(255, 255, 255, 0.516);
+}
+.deep:hover {
+    color: white;
+    transition: 0.5s;
+}
+.Streetss {
+    margin-left: 13.5%;
+}
+.Streetsss {
+    margin-left: 14.5%;
+}
+.Streetssss {
+    margin-left: 14.5%;
+}
+.endofpage {
+    background-color: black;
+    height: 200px;
+    width: 101.5%;
+    margin-left: -0.6%;
+    margin-top: 10%;
+}
+.socialmedia {
+    margin-left: 82%;
+    margin-top: -9%;
+}
+.fesbook  {
+    border-radius: 50%;
+    width: 15%;
+}
+.fesbook:hover {
+    width: 20%;
+    transition: 1s;
+}
+.Loopstudiosall {
+    color: rgba(238, 238, 238, 0.538);
+    position: absolute;
+    top: 345%;
+    right: 2%;
+}
